@@ -7,4 +7,4 @@ local_settings.py
 [0-9+]*.py
 media
 .env
-.sqlite3
+*.sqlite3
